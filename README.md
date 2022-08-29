@@ -21,9 +21,9 @@ Our Clients:
 ## Your business, our solution
 ```mermaid
 sequenceDiagram
-Vecta ->> Client: Hello XYZ, how may can we help you?
+Vecta ->> Client: Hello there, how may can we help you?
 Client-->>Vecta: I want my business to be advertized.
-Client-->>Vecta: What service can yu provide us?
+Client-->>Vecta: What service can you provide us?
 Vecta ->> Client: You are at right place. Try our vProspect 2.0 product.
 Vecta ->> Client: Give us a call and we can get to work for you.
 ```
